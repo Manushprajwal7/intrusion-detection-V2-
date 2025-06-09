@@ -1,4 +1,4 @@
-# README content for the Intrusion Detection System project
+
 
 # 🛡️ Intrusion Detection System (IDS) – Man-in-the-Middle Attack Detection
 
